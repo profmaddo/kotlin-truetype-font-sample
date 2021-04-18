@@ -1,2 +1,2 @@
 # kotlin-truetype-font-sample
-Kotlin version
+This is a sample to demonstrate how is easy to change standard font to use any kind of truetype font in Native Koltin Android Application.
